@@ -2,6 +2,27 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
+5.1.25 Truffle
+
+0.5.7 Solidity
+
+8.16.2 Node
+
+1.2.1 Web3.js 
+
+ > contract address:    https://rinkeby.etherscan.io/address/0x573def9aCAcce8564A99A3Fc95BB99803117a0D9
+ 
+ Transaction Id:  0xe21ef7ad4c71a2e368a3834653d6f3bf83b9cc1bac23410edba9312767967d1c
+ 
+ 0.9.2  truffle-assertions
+
+ Connect with Infura Rinkeby/Ropsten  truffle-hdwallet-provider  1.0.17 
+ 
+ 
+
+
+
+
 The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_product_overview.png)
@@ -108,3 +129,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Ganache-cli
 * Truffle
 * IPFS
+
